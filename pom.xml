@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>xyz.nclsprsn</groupId>
-    <artifactId>vertx-scala-example</artifactId>
+    <artifactId>vertx-scala-maven-example</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>${project.artifactId}</name>
     <description>Example of Vert.x Scala project</description>
