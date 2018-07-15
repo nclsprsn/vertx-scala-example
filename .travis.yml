@@ -2,4 +2,4 @@ language: java
 sudo: false # faster builds
 jdk:
   - openjdk8
-script: "mvn test"
+script: "./mvnw test"
